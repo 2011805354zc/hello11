@@ -55,8 +55,8 @@ function render() {
 function renderInvite() {
   card.innerHTML = `
     <img class="avatar" src="assets/dog-avatar.png" alt="开心的法国斗牛犬" />
-    <h1 class="title">🌸 可以和我一起<br />约会嘛？！ 🌸</h1>
-    <p class="subtitle">系统检测到：对方已经紧张到开始写网页了。</p>
+    <h1 class="title">🌸 可以和我一起<br />吃饭嘛！ 🌸</h1>
+    <p class="subtitle">世界上最可爱的11。</p>
     <div class="actions">
       <button class="comic-button primary" id="yesButton" type="button">愿意 ❤</button>
       <button class="comic-button no-button" id="noButton" type="button">不要 🤔</button>
